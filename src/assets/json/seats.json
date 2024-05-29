@@ -1,0 +1,284 @@
+{
+    "results": [
+        {
+            "busName": "Bus1",
+            "fare": 100,
+            "isAvailable": true,
+            "isBooked": true,
+            "isConfirmed": false
+        },
+        {
+            "busName": "Bus1",
+            "fare": 100,
+            "isAvailable": true,
+            "isBooked": true,
+            "isConfirmed": false
+        },
+        {
+            "busName": "Bus1",
+            "fare": 100,
+            "isAvailable": true,
+            "isBooked": false,
+            "isConfirmed": false
+        },
+        {
+            "busName": "Bus1",
+            "fare": 100,
+            "isAvailable": true,
+            "isBooked": false,
+            "isConfirmed": false
+        },
+        {
+            "busName": "Bus1",
+            "fare": 100,
+            "isAvailable": true,
+            "isBooked": true,
+            "isConfirmed": false
+        },
+        {
+            "busName": "Bus1",
+            "fare": 100,
+            "isAvailable": true,
+            "isBooked": false,
+            "isConfirmed": false
+        },
+        {
+            "busName": "Bus1",
+            "fare": 100,
+            "isAvailable": true,
+            "isBooked": false,
+            "isConfirmed": false
+        },
+        {
+            "busName": "Bus1",
+            "fare": 100,
+            "isAvailable": true,
+            "isBooked": false,
+            "isConfirmed": false
+        },
+        {
+            "busName": "Bus1",
+            "fare": 100,
+            "isAvailable": true,
+            "isBooked": false,
+            "isConfirmed": false
+        },
+        {
+            "busName": "Bus1",
+            "fare": 100,
+            "isAvailable": true,
+            "isBooked": false,
+            "isConfirmed": false
+        },
+        {
+            "busName": "Bus1",
+            "fare": 100,
+            "isAvailable": true,
+            "isBooked": true,
+            "isConfirmed": false
+        },
+        {
+            "busName": "Bus1",
+            "fare": 100,
+            "isAvailable": false,
+            "isBooked": false,
+            "isConfirmed": false
+        },
+        {
+            "busName": "Bus1",
+            "fare": 100,
+            "isAvailable": true,
+            "isBooked": false,
+            "isConfirmed": false
+        },
+        {
+            "busName": "Bus1",
+            "fare": 100,
+            "isAvailable": true,
+            "isBooked": false,
+            "isConfirmed": false
+        },
+        {
+            "busName": "Bus1",
+            "fare": 100,
+            "isAvailable": true,
+            "isBooked": false,
+            "isConfirmed": false
+        },
+        {
+            "busName": "Bus1",
+            "fare": 100,
+            "isAvailable": true,
+            "isBooked": false,
+            "isConfirmed": false
+        },
+        {
+            "busName": "Bus1",
+            "fare": 100,
+            "isAvailable": true,
+            "isBooked": false,
+            "isConfirmed": false
+        },
+        {
+            "busName": "Bus1",
+            "fare": 100,
+            "isAvailable": true,
+            "isBooked": false,
+            "isConfirmed": false
+        },
+        {
+            "busName": "Bus1",
+            "fare": 100,
+            "isAvailable": true,
+            "isBooked": false,
+            "isConfirmed": false
+        },
+        {
+            "busName": "Bus1",
+            "fare": 100,
+            "isAvailable": true,
+            "isBooked": false,
+            "isConfirmed": false
+        },
+        {
+            "busName": "Bus1",
+            "fare": 100,
+            "isAvailable": true,
+            "isBooked": false,
+            "isConfirmed": false
+        },
+        {
+            "busName": "Bus1",
+            "fare": 100,
+            "isAvailable": true,
+            "isBooked": false,
+            "isConfirmed": false
+        },
+        {
+            "busName": "Bus1",
+            "fare": 100,
+            "isAvailable": true,
+            "isBooked": false,
+            "isConfirmed": false
+        },
+        {
+            "busName": "Bus1",
+            "fare": 100,
+            "isAvailable": true,
+            "isBooked": false,
+            "isConfirmed": false
+        },
+        {
+            "busName": "Bus1",
+            "fare": 100,
+            "isAvailable": true,
+            "isBooked": false,
+            "isConfirmed": false
+        },
+        {
+            "busName": "Bus1",
+            "fare": 100,
+            "isAvailable": true,
+            "isBooked": false,
+            "isConfirmed": false
+        },
+        {
+            "busName": "Bus1",
+            "fare": 100,
+            "isAvailable": true,
+            "isBooked": false,
+            "isConfirmed": false
+        },
+        {
+            "busName": "Bus1",
+            "fare": 100,
+            "isAvailable": true,
+            "isBooked": false,
+            "isConfirmed": false
+        },
+        {
+            "busName": "Bus1",
+            "fare": 100,
+            "isAvailable": true,
+            "isBooked": false,
+            "isConfirmed": false
+        },
+        {
+            "busName": "Bus1",
+            "fare": 100,
+            "isAvailable": true,
+            "isBooked": false,
+            "isConfirmed": false
+        },
+        {
+            "busName": "Bus1",
+            "fare": 100,
+            "isAvailable": true,
+            "isBooked": false,
+            "isConfirmed": false
+        },
+        {
+            "busName": "Bus1",
+            "fare": 100,
+            "isAvailable": true,
+            "isBooked": false,
+            "isConfirmed": false
+        },
+        {
+            "busName": "Bus1",
+            "fare": 100,
+            "isAvailable": true,
+            "isBooked": false,
+            "isConfirmed": false
+        },
+        {
+            "busName": "Bus1",
+            "fare": 100,
+            "isAvailable": true,
+            "isBooked": false,
+            "isConfirmed": false
+        },
+        {
+            "busName": "Bus1",
+            "fare": 100,
+            "isAvailable": true,
+            "isBooked": false,
+            "isConfirmed": false
+        },
+        {
+            "busName": "Bus1",
+            "fare": 100,
+            "isAvailable": true,
+            "isBooked": false,
+            "isConfirmed": false
+        },
+        {
+            "busName": "Bus1",
+            "fare": 100,
+            "isAvailable": true,
+            "isBooked": false,
+            "isConfirmed": false
+        },
+        {
+            "busName": "Bus1",
+            "fare": 100,
+            "isAvailable": true,
+            "isBooked": false,
+            "isConfirmed": false
+        },
+        {
+            "busName": "Bus1",
+            "fare": 100,
+            "isAvailable": true,
+            "isBooked": false,
+            "isConfirmed": false
+        },
+        {
+            "busName": "Bus1",
+            "fare": 100,
+            "isAvailable": true,
+            "isBooked": false,
+            "isConfirmed": false
+        }
+    ]
+}

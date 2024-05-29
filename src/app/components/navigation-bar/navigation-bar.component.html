@@ -1,0 +1,4 @@
+<nav class="flex justify-around items-center space-x-3 mx-auto p-4 bg-white">
+    <a href="">Logo</a>
+    <p-dropdown [options]="tabs" [(ngModel)]="selectedTab" optionLabel="name" (onChange)="onTabChange()" />
+</nav>

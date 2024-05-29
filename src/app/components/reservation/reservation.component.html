@@ -1,0 +1,20 @@
+<div class="flex justify-center items-center flex-col w-full mx-auto space-x-3">
+    <div class="flex flex-col justify-end">
+        <div class="flex items-center justify-between ">
+            <span class="h-2 w-4 bg-white"></span>
+            <span> Available</span>
+        </div>
+        <div class="flex items-center justify-between gap-6">
+            <span class="h-2 w-4 bg-gray-400"></span>
+            <span> Not Available</span>
+        </div>
+        <div class="flex items-center justify-between">
+            <span class="h-2 w-4 bg-[#ff8b8b]"></span>
+            <span> Booked</span>
+        </div>
+    </div>
+    <span class="mx-auto w-1/2 p-4 mb-2.5 bg-red-400 text-white text-center text-l font-semibold">
+        {{'Click on available seats to proceed with your transaction'}}
+    </span>
+    <app-show-seats class="w-[55%]"></app-show-seats>
+</div>

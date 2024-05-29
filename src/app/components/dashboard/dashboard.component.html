@@ -1,0 +1,57 @@
+<!-- <form [formGroup]="userForm" (ngSubmit)="onSubmit()">
+    <div class="flex justify-between items-center">
+        <label for="firstName">First Name</label>
+        <input type="text" formControlName="firstName">
+        @if(userForm.get('firstName')?.touched && userForm.get('firstName')?.errors?.['required']){
+        <span class="text-red-500 font-semibold  text-md">Field is required</span>
+        }
+    </div>
+    <div class="flex justify-between items-center">
+        <label for="lastName"> Last Name</label>
+        <input type="text" formControlName="lastName">
+        @if(userForm.get('lastName')?.touched && userForm.get('lastName')?.errors?.['required']){
+        <span class="text-red-500 font-semibold  text-md">Field is required</span>
+        }
+    </div>
+    <div class="flex justify-between items-center">
+        <label for="email"> First Name</label>
+        <input type="text" formControlName="email">
+        @if(userForm.get('email')?.touched && userForm.get('email')?.errors?.['required']){
+        <span class="text-red-500 font-semibold  text-md">Field is required</span>
+        }
+    </div>
+    <div class="flex justify-between items-center">
+        <label for="password"> Last Name</label>
+        <input type="password" formControlName="password">
+        @if(userForm.get('password')?.touched && userForm.get('password')?.errors?.['required']){
+        <span class="text-red-500 font-semibold  text-md">Field is required</span>
+        }
+    </div>
+    <button type="submit">
+        {{!isEditing?'Submit':'Update'}}
+    </button>
+</form>
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Email</th>
+        <th>Seat Number(s)</th>
+        <th>Date Of Booking</th>
+        <th>Edit</th>
+        <th>Delete</th>
+    </tr>
+    @for (user of userData;track user;let i = $index){
+    <tr>
+        <td>{{user?.firstName }}{{user?.lastName }}</td>
+        <td>{{user?.email}}</td>
+        <td>
+            @for(seatNumber of user?.seatNumbers;track seatNumber){
+            {{ seatNumber}}
+            }
+        </td>
+        <td>{{user?.dateOfBooking | date:'dd-MM-yyy h:m a'}}</td>
+        <td (click)="onEdit(i)">Edit</td>
+        <td (click)="onDelete(i)">Delete</td>
+    </tr>
+    }
+</table> -->

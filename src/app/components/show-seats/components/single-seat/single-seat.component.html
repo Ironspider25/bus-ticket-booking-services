@@ -1,0 +1,22 @@
+@if(!seatType){
+
+<div class="relative w-20 h-10 border-2 border-gray-300" pTooltip="{{
+!isAvailable?'Not Available':
+isBooked?'Seat is booked':
+isSelected?'You just selected this ticket':
+'Fare : '+seatFare}}" tooltipPosition="top"
+    [ngClass]="!isAvailable?'bg-gray-400':isBooked?'bg-[#ff6969]':isSelected?'bg-green-500':'bg-white'">
+    {{seatNumber}}
+    <div class="absolute top-1/2 right-2 transform -translate-y-1/2 w-3 h-6 border-2 border-gray-300"></div>
+</div>
+}@else {
+<div class="relative w-10 h-20 border-2 border-gray-300" pTooltip="{{
+    !isAvailable?'Not Available':
+    isBooked?'Seat is booked':
+    isSelected?'You just selected this ticket':
+    'Fare : '+seatFare}}" tooltipPosition="top"
+    [ngClass]="!isAvailable?'bg-gray-400':isBooked?'bg-[#ff6969]':isSelected?'bg-green-500':'bg-white'">
+    {{seatNumber}}
+    <div class="absolute top-1/2 right-2 transform -translate-y-1/2 w-3 h-8 border-2 border-gray-300"></div>
+</div>
+}
